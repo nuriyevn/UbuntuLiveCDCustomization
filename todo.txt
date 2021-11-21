@@ -1,0 +1,12 @@
+1) set parameters over command line
+2) refactor code, write function, cleanup code a bit
+3) enforce strong password
+4) more comments (or better comments
+5) get rid of part3_chroot if possible
+6) make all variable available for all scripts
+7) error handling and logging
+8) install usb-creator-gtk or use dd
+9) add uniqueness to the iso
+dbus-uuidgen > /var/lib/dbus/machine-id
+or somehow differentiate devices.
+10) clean up without building
